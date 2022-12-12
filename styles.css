@@ -1,0 +1,31 @@
+body {
+    background-color: #DAE2B6;
+}
+
+img {
+    height: 175px;
+}
+
+table {
+    border-spacing: 20px;
+}
+
+hr {
+    border-color: #F4EAD5;
+    height: 0px;
+    border-style: dotted none none;
+    border-width: 4px;
+}
+
+h1 {
+    color: #285430;
+}
+
+h2 {
+    color: #285430;
+}
+
+img {
+    border-style: solid;
+    border-color: #285430;
+}
